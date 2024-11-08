@@ -68,7 +68,7 @@
 
 ### 免费社工库机器人
 
-一个Telegram社工库群组，支持三网机主、手机定位、车辆档案、个人户籍、全家户籍、模糊找人、开房记录、通话记录等信息的查询，使用参考：[免费社工库机器人](https://www.shegongku.top/58.html)。
+🔍一个Telegram社工库群组，支持三网机主、手机定位、车辆档案、个人户籍、全家户籍、模糊找人、开房记录、通话记录等信息的查询，使用参考：[免费社工库机器人](https://www.shegongku.top/58.html)。
 
 
 <br>
@@ -93,7 +93,7 @@
 <a href="https://idouyin.io/41" target="_blank"><img src="pic/space.png" alt="Space社工库" border="0" style="width:380px;"></a>
 
 
-地址: [@Spaaaace_SGK](https://idouyin.io/41) ，具体使用教程： <a href="https://www.shegongku.top/77.html" target="_blank">Space社工库机器人: 身份户籍/开房记录，隐私信息免费查询</a>。需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+地址: [@SpaceSGK_bot](https://idouyin.io/41) ，具体使用教程： <a href="https://www.shegongku.top/77.html" target="_blank">Space社工库机器人: 身份户籍/开房记录，隐私信息免费查询</a>。需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 备注：~每日签到可获取3次免费查询机会~，现在没有签到功能了。
 
