@@ -24,7 +24,6 @@
 一个在线，免费，无需注册的隐私数据泄露检测工具，访问网站即可使用，详情：<a href="https://www.shegongku.top/382.html" target="_blank" >Privacy ，个人数据泄漏检测，QQ绑定、微博绑定查询</a>。
 
 
-
 ### 3. LosePrivacy
 
 
@@ -55,12 +54,14 @@
 
 ### 暗精灵社工库
 
-🔍可查询：支持猎魔模糊查询。 ~~不强制要求推广后才能使用，每日签到可获取积分~~ ，目前只能通过分享推广或充值后才能使用。详细介绍参考：[2024最新Telegram社工库分享：暗精灵](https://www.shegongku.top/1.html)
+🔍可查询：支持猎魔模糊查询。 ~~不强制要求推广后才能使用，每日签到可获取积分~~ ，目前只能通过分享推广或充值后才能使用。
 
 
 <a href="https://idouyin.io/41" target="_blank"><img src="pic/anjingling.png" alt="暗精灵社工库" border="0" style="width:380px;"></a>
 
-地址: [@AJL01_bot](https://idouyin.io/41)，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 社工库详情：[2024最新Telegram社工库分享：暗精灵](https://www.shegongku.top/1.html)
+* 账号地址: [@AJL01_bot](https://idouyin.io/4c)
+* 教程：需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 
@@ -371,7 +372,10 @@
 
 号称可查询到: 身份户籍、开房记录、企业信息、事业单位、贷款记录、车牌车主、电话机主、学籍信息、收货信息、常用密码、外卖订单、通讯记录、网购记录、游戏数据、社保信息、招聘数据、QQ/邮箱/微博/网络账号/贴吧/微博/LOL/手机查绑、Q群关系、QQ/机主姓名、同名联系方式、就职单位、银行开户、通讯录、匹配查完整手机号, 身份证号等联系方式相关信息。
 
-账号地址： <a href="https://idouyin.io/41" target="_blank">@zysgkbot</a>。 
+散了吧，新中央没法用了~
+
+* 账号地址： <a href="https://idouyin.io/41" target="_blank">新中央社工库</a>。
+* 教程： <a href="https://www.shegongku.top/179.html" target="_blank">社工库使用教程</a>。
 
 
 
