@@ -57,7 +57,7 @@
 🔍可查询：支持猎魔模糊查询。 ~~不强制要求推广后才能使用，每日签到可获取积分~~ ，目前只能通过分享推广或充值后才能使用。
 
 
-<a href="https://idouyin.io/41" target="_blank"><img src="pic/anjingling.png" alt="暗精灵社工库" border="0" style="width:380px;"></a>
+<a href="https://idouyin.io/41" target="_blank"><img src="pic/anjingling.png" alt="暗精灵社工库" border="0" style="width:380px;margin-left: 80px"></a>
 
 * 社工库详情：[2024最新Telegram社工库分享：暗精灵](https://www.shegongku.top/1.html)
 * 账号地址: [@AJL01_bot](https://idouyin.io/4c)
