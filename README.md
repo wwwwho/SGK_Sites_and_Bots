@@ -69,7 +69,9 @@
 
 ### 免费社工库机器人
 
-🔍一个Telegram社工库群组，支持三网机主、手机定位、车辆档案、个人户籍、全家户籍、模糊找人、开房记录、通话记录等信息的查询，使用参考：[免费社工库机器人](https://www.shegongku.top/58.html)。
+🔍一个Telegram社工库群组，支持三网机主、手机定位、车辆档案、个人户籍、全家户籍、模糊找人、开房记录、通话记录等信息的查询.
+
+* 使用参考：[免费社工库机器人](https://www.shegongku.top/58.html)。
 
 
 <br>
@@ -80,7 +82,8 @@
 
 🔍可查询：身份证、手机号、姓名、家庭住址、个人户籍、QQ绑定、微博绑定、**学习通数据、微信id数据、支付宝模糊绑定**、银行卡、同邮服、群关系、模糊找人
 
-地址: [@HePing_SGK](https://idouyin.io/41)，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram社工库使用的参考这篇详细介绍：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 社工库地址: [@HePing_SGK](https://idouyin.io/41)，账号搜索不到了，估计是被注销了，试试其他的吧
+* 使用教程： 需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram社工库使用的参考这篇详细介绍：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 备注：每日签到获取2积分，每日两次免费查询机会。模糊找人功能。
 
