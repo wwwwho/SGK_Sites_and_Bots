@@ -109,7 +109,8 @@
 
 🔍可查询：泄漏的**学习通**学生信息，身份证信息，QQ绑定，微博绑定，快递，运营商、京东/淘宝快递、车牌车主、个人常用密码、Q群关系等数据。
 
-地址: [@sggggk2023_03_30bot](https://idouyin.io/41)，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 社工库地址: <a href="https://www.shegongku.top/26.html" target="_blank" >Hello World社工库</a>
+* 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 备注：**无积分限制，只需间隔几分钟查询一次**。相当于无限查询次数，但缺点是未推广每次查询只能看部分信息。
 
