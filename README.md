@@ -221,7 +221,7 @@
 
 🔍星盾社工库最新45亿电商数据：主要是用手机号或身份证号查 **快递信息**，将查出该手机号用户相关信息，包括但不限于：姓名，性别，年龄，身份证号、微博号、QQ号、快递地址、收件姓名、收件日期<br>
 
-地址链接: [@XingDun_SGK](https://t.me/XingDun2Bot?start=cmBrpUd)
+地址链接: [@XingDun6Bot](https://t.me/XingDun6Bot?start=2yH44cv)
 <br>
 
 
