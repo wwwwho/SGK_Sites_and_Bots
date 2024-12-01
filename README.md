@@ -193,7 +193,7 @@
 
 ### 平安社工库
 
-地址: [@Pingan_SGK](https://t.me/pingansgk_bot)
+地址: [@pingansgk_bot](https://www.shegongku.top/41.html)
 
 备注：无需推广,无需积分。
 
