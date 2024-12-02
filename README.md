@@ -106,7 +106,7 @@
 
 常用查询关键词: QQ|邮箱|用户名|电话|姓名|身份号
 
-地址链接：[@AISGK_](https://t.me/aishegongkubot?start=AISGK_ZL3E2L1A)
+地址链接：[@AISGK_](https://www.shegongku.top/43.html)
 [Botbot](http://t.me/aishegongkubot?start=AISGK_4DQTJF6S)
 
 
