@@ -14,18 +14,17 @@
 地址： [https://www.shegongku.top/](https://www.shegongku.top/)。
 
 
-### 3.Privacy
+### 2.Privacy
 
 一个在线，免费，无需注册的隐私数据泄露检测工具，访问网站即可使用，详情：<a href="https://www.shegongku.top/382.html" target="_blank" >Privacy ，个人数据泄漏检测，QQ绑定、微博绑定查询</a>。
 
 
 
-### 2. LosePrivacy
+### 3. LosePrivacy
 
 🔍LosePrivacy 收录了全球著名的数据泄露事件及数据，方便用户真实掌握：我们哪些隐私信息被泄露了、隐私信息被谁泄露了
 
-地址：[Loseprivacy](https://idouyin.io/41)
-（进不去的关掉vpn再进）
+地址：[Loseprivacy](https://www.shegongku.top/75.html)（进不去的关掉vpn再进）
 
 网站按关键词收费，1元一个关键词，购买后可对该关键词不限次数查询。注册账号后会获得3元的点券，每日签到可以获得1.5元消费券，可以用这种方式免费查询。<br>
 
