@@ -174,7 +174,7 @@
 
 ### 狗狗免费社工机器人
 
-地址: [@DogeSGK_bot]https://www.shegongku.top/314.html)
+地址: [@DogeSGK_bot](https://www.shegongku.top/314.html)
 
 备注：~~每日签到可获取积分，**二要素验证功能，验证身份证号和姓名是否真实对应**~~ 这个社工库跑路了，试试其他[好用社工库](https://mfsgk.com/18.html)吧。
 
