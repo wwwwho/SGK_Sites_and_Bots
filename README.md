@@ -206,7 +206,13 @@
 
 地址: [@xiaohaigeSGK1_bot](https://www.shegongku.top/445.html)
 
-备注：无需推广,无需积分。
+
+### 约翰社工库机器人
+
+🔍约翰社工库机器人是一个在线Telegram社工库查询工具，支持人肉开盒：户籍、机主、开房、快递外卖地址、QQ群关系、账号密码。支持签到获取积分免费使用（非得充值的有钱人也没人拦你）。
+
+
+地址: [@yuehanbot](https://www.shegongku.top/455.html)
 
 <br>
 
