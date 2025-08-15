@@ -48,7 +48,7 @@
 <a href="https://idouyin.io/41" target="_blank"><img src="pic/anjingling.png" alt="暗精灵社工库" border="0" style="width:380px;margin-left: 80px"></a>
 
 * 社工库详情：[2024最新Telegram社工库分享：暗精灵](https://www.shegongku.top/1.html)
-* 账号地址: [@AJL01_bot](https://t.me/AJL01_bot?start=qstxIqcQ3R)
+* 账号地址: [@AJL07_bot](https://t.me/AJL07_bot?start=7503613403)
 * 教程：需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
