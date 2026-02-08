@@ -109,7 +109,7 @@
 
 常用查询关键词: QQ|邮箱|用户名|电话|姓名|身份号
 
-地址链接：[@aisgk111111bot](https://www.mfsgk.com/22.html)
+地址链接：[@aisgk111111bot](https://t.me/aisgk111111bot?start=90)
 
 <br>
 
