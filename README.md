@@ -11,7 +11,7 @@
 
 全网最全的社工库分享站点，不断更新在线社工库和Telegram社工库机器人信息，并对社工库的使用做出说明。
 
-地址： [https://www.shegongku.top/](https://www.shegongku.top/)。
+地址： [https://www.mfsgk.com/](https://www.shegongku.top/)。
 
 
 ### 2.Privacy
@@ -47,8 +47,8 @@
 
 <a href="https://idouyin.io/41" target="_blank"><img src="pic/anjingling.png" alt="暗精灵社工库" border="0" style="width:380px;margin-left: 80px"></a>
 
-* 社工库详情：[2025最新Telegram社工库分享：暗精灵](https://www.shegongku.top/1.html)
-* 账号地址: [@免费公益社工库暗精灵](https://www.shegongku.top/1.html)
+* 社工库详情：[2025最新Telegram社工库分享：暗精灵](https://www.mfsgk.com/18.html)
+* 账号地址: [@免费公益社工库暗精灵](https://www.mfsgk.com/18.html)
 * 教程：需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
