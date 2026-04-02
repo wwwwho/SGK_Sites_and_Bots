@@ -212,7 +212,7 @@
 🔍约翰社工库机器人是一个在线Telegram社工库查询工具，支持人肉开盒：户籍、机主、开房、快递外卖地址、QQ群关系、账号密码。支持签到获取积分免费使用（非得充值的有钱人也没人拦你）。
 
 
-地址: [@yuehanbot](https://www.shegongku.top/455.html)
+地址: [@约翰社工库](https://www.shegongku.top/455.html)
 
 <br>
 
@@ -238,7 +238,7 @@
 
 🔍星盾社工库最新45亿电商数据：主要是用手机号或身份证号查 **快递信息**，将查出该手机号用户相关信息，包括但不限于：姓名，性别，年龄，身份证号、微博号、QQ号、快递地址、收件姓名、收件日期<br>
 
-地址链接: [@XingDun6Bot](https://www.shegongku.top/116.html)
+地址链接: [@XingDun6Bot](https://www.mfsgk.com/25.html)
 <br>
 
 
