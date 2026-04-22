@@ -16,8 +16,7 @@
 
 ### 2.Privacy
 
-一个在线，免费，无需注册的隐私数据泄露检测工具，访问网站即可使用，详情：<a href="https://www.shegongku.top/382.html" target="_blank" >Privacy ，个人数据泄漏检测，QQ绑定、微博绑定查询</a>。
-
+一个在线，免费，无需注册的隐私数据泄露检测工具，访问网站即可使用，详情：<a href="https://www.mfsgk.com/277.html" target="_blank" >Privacy ，个人数据泄漏检测，QQ绑定、微博绑定查询</a>。
 
 
 ### 3. LosePrivacy
