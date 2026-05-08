@@ -68,7 +68,7 @@
 
 🔍可查询：身份证、手机号、姓名、家庭住址、个人户籍、QQ绑定、微博绑定、**学习通数据、微信id数据、支付宝模糊绑定**、银行卡、同邮服、群关系、模糊找人
 
-地址: [@HePing_SGK](https://www.shegongku.top/21.html)
+地址: [@aisgk111111bot](https://www.shegongku.top/21.html)
 
 备注：每日签到获取2积分，每日两次免费查询机会。模糊找人功能。
 
@@ -82,7 +82,7 @@
 <a href="https://idouyin.io/41" target="_blank"><img src="pic/space.png" alt="Space社工库" border="0" style="width:380px;"></a>
 
 
-* 地址: [@SpaceSGK_bot](https://www.mfsgk.com/88.html) 
+* 地址: [@LSMCDLXBOT](https://www.mfsgk.com/88.html) 
 * 教程：不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >2026年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 备注：~每日签到可获取3次免费查询机会~，现在没有签到功能了。
