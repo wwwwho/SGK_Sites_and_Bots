@@ -22,7 +22,7 @@
 
 🔍LosePrivacy 收录了全球著名的数据泄露事件及数据，方便用户真实掌握：我们哪些隐私信息被泄露了、隐私信息被谁泄露了
 
-地址：[Loseprivacy](https://t.me/LSMCDLXBOT?start=1)（进不去的关掉vpn再进）
+地址：[Loseprivacy](https://telegram.me/LSMCDLXBOT?start=1)（进不去的关掉vpn再进）
 
 网站按关键词收费，1元一个关键词，购买后可对该关键词不限次数查询。注册账号后会获得3元的点券，每日签到可以获得1.5元消费券，可以用这种方式免费查询。<br>
 
@@ -56,7 +56,7 @@
 
 🔍可查询： **快递地址**、手机机主、身份证信息、QQ/微博/LOL绑定、邮箱查找、同名查找、模糊找人
 
-地址: [@YHSGK007BOT](https://t.me/YHSGK007BOT?start=8F3116AE)
+地址: [@YHSGK007BOT](https://telegram.me/YHSGK007BOT?start=8F3116AE)
 
 备注：**手机综合查询功能免费**，大多数功能需要邀请获得积分，超级综合检索系统，适用于模糊找人
 
@@ -81,7 +81,7 @@
 <a href="https://idouyin.io/41" target="_blank"><img src="pic/space.png" alt="Space社工库" border="0" style="width:380px;"></a>
 
 
-* 地址: [@LSMCDLXBOT](https://t.me/LSMCDLXBOT?start=1) 
+* 地址: [@LSMCDLXBOT](https://telegram.me/LSMCDLXBOT?start=1) 
 * 教程：不会使用Telegram的看这里吧： <a href="https://www.mfsgk.com/88.html" target="_blank" >2026年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 备注：~每日签到可获取3次免费查询机会~，现在没有签到功能了。
@@ -93,7 +93,7 @@
 
 🔍可查询：泄漏的**学习通**学生信息，身份证信息，QQ绑定，微博绑定，快递，运营商、京东/淘宝快递、车牌车主、个人常用密码、Q群关系等数据。
 
-地址: [@TMD_sgk2023](http://t.me/sgk2023_03_30bot)
+地址: [@TMD_sgk2023](http://telegram.me/sgk2023_03_30bot)
 
 备注：**无积分限制，只需间隔几分钟查询一次**。相当于无限查询次数，但缺点是未推广每次查询只能看部分信息。
 
@@ -106,7 +106,7 @@
 
 常用查询关键词: QQ|邮箱|用户名|电话|姓名|身份号
 
-地址链接：[@aisgk111111bot](https://t.me/aisgk111111bot?start=90)
+地址链接：[@aisgk111111bot](https://telegram.me/aisgk111111bot?start=90)
 
 <br>
 
@@ -116,7 +116,7 @@
 
 🔍可查询：身份证、手机号、姓名、家庭住址、个人户籍、QQ绑定、邮箱、微博绑定、**学习通数据、WeChatID、支付宝模糊绑定**、银行卡
 
-地址: [@Ahu_SGK](https://t.me/Ahusgkbot?start=LaIekze)
+地址: [@Ahu_SGK](https://telegram.me/Ahusgkbot?start=LaIekze)
 
 备注：无需签到，每天自动获得3次免费查询机会
 
@@ -128,7 +128,7 @@
 🔍可查询：同名查询、身份
 户籍、机主信息、快递地址、车牌车主、账号密码、QQ／贴吧／微博／LOL.／共享单车手机查绑、要素验证、同名联系方式、家庭地址等等
 
-地址: [@Iner_SGK](https://t.me/INERSGKBOT)
+地址: [@Iner_SGK](https://telegram.me/INERSGKBOT)
 
 备注：每日签到可获取5积分
 
@@ -139,7 +139,7 @@
 
 🔍可查询：TG账号注册时间，账号标签，用户名，加入的群聊名字及链接
 
-地址: [@STScan_Bot](https://t.me/STScanBot?start=yOXENUOSKG)
+地址: [@STScan_Bot](https://telegram.me/STScanBot?start=yOXENUOSKG)
 
 备注：新用户限时赠送10积分， 一次查询完整结果消耗积分，查询失败不消耗积分
 
@@ -152,7 +152,7 @@
 
 高清正反面，身份证二要素核验，手机号二三要素核验，商银行卡二三四要素核验，公司法人四要素核验，失信人核验，图片变清晰
 
-地址链接：[@SGK007_Bot](https://t.me/LSMCDLXBOT?start=1)
+地址链接：[@SGK007_Bot](https://telegram.me/LSMCDLXBOT?start=1)
 
 备注：验证查到的信息是否真实有效，每日签到赠送2积分
 
@@ -162,7 +162,7 @@
 
 🔍可查询 **群组关系**、身份证、手机号、邮箱、家庭住址、外卖信息、QQ绑定、微博绑定、户籍信息、同邮服等
 
-地址: [@SGK_ABOT](https://t.me/SGK_ABOT)
+地址: [@SGK_ABOT](https://telegram.me/SGK_ABOT)
 
 **注册就送50积分，每日签到可获取5积分**，查询成功消耗1积分，可开高级功能短信轰炸、模糊查找。
 
@@ -182,7 +182,7 @@
 
 🔍可查询：QQ/微博绑定、手机机主、快递地址等等
 
-地址: [@DATA007_SGK](https://t.me/DATA_007bot)
+地址: [@DATA007_SGK](https://telegram.me/DATA_007bot)
 
 备注：每日签到获取积分。
 
@@ -223,9 +223,9 @@
 
 常用查询关键词: QQ|邮箱|用户名|电话|姓名|身份号|公司或店铺名称
 
-地址链接：[@aisgk111111bot](https://t.me/aisgk111111bot?start=90)
+地址链接：[@aisgk111111bot](https://telegram.me/aisgk111111bot?start=90)
 
-***爱社工库官方充值350元起步，少量查询不划算，可联系人工付费解码：[@aisgk111111bot](https://t.me/aisgk111111bot?start=90)***（仅限AISGK解码）
+***爱社工库官方充值350元起步，少量查询不划算，可联系人工付费解码：[@aisgk111111bot](https://telegram.me/aisgk111111bot?start=90)***（仅限AISGK解码）
 
 
 <br>
