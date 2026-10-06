@@ -56,7 +56,7 @@
 
 🔍可查询： **快递地址**、手机机主、身份证信息、QQ/微博/LOL绑定、邮箱查找、同名查找、模糊找人
 
-地址: [@YHSGK007BOT](https://telegram.me/YHSGK007BOT?start=8F3116AE)
+地址: [@yonghehebot](https://t.me/yonghehebot?start=ref_7503613403)
 
 备注：**手机综合查询功能免费**，大多数功能需要邀请获得积分，超级综合检索系统，适用于模糊找人
 
