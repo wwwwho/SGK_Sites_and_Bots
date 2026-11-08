@@ -43,7 +43,7 @@
 🔍可查询：支持猎魔模糊查询。 ~~不强制要求推广后才能使用，每日签到可获取积分~~ ，目前只能通过分享推广或充值后才能使用。
 
 
-<a href="https://idouyin.io/41" target="_blank"><img src="pic/anjingling.png" alt="暗精灵社工库" border="0" style="width:380px;margin-left: 80px"></a>
+<a href="https://www.mfsgk.com/18.html" target="_blank"><img src="pic/anjingling.png" alt="暗精灵社工库" border="0" style="width:380px;margin-left: 80px"></a>
 
 * 社工库详情：[2026最新Telegram社工库-精灵](https://www.mfsgk.com/18.html)
 * 使用说明: [@免费公益社工库暗精灵](https://www.mfsgk.com/264.html)
@@ -78,10 +78,10 @@
 
 🔍可查询：身份户籍、开房记录、开房记录、快递地址、贷款记录、车牌车主、个人常用密码、QQ/邮箱/微博/网络账号、就职单位和银行开户等联系方式。
 
-<a href="https://idouyin.io/41" target="_blank"><img src="pic/space.png" alt="Space社工库" border="0" style="width:380px;"></a>
+<a href="https://www.mfsgk.com/154.html" target="_blank"><img src="pic/space.png" alt="Space社工库" border="0" style="width:380px;"></a>
 
 
-* 地址: [@LSMCDLXBOT](https://telegram.me/LSMCDLXBOT?start=1) 
+* 地址: [@LSMCDLXBOT](https://t.me/LSMCDLXBOT?start=1) 
 * 教程：不会使用Telegram的看这里吧： <a href="https://www.mfsgk.com/88.html" target="_blank" >2026年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 备注：~每日签到可获取3次免费查询机会~，现在没有签到功能了。
@@ -93,7 +93,7 @@
 
 🔍可查询：泄漏的**学习通**学生信息，身份证信息，QQ绑定，微博绑定，快递，运营商、京东/淘宝快递、车牌车主、个人常用密码、Q群关系等数据。
 
-地址: [@TMD_sgk2023](http://telegram.me/sgk2023_03_30bot)
+地址: [@TMD_sgk2026](https://t.me/mfsgk2026)
 
 备注：**无积分限制，只需间隔几分钟查询一次**。相当于无限查询次数，但缺点是未推广每次查询只能看部分信息。
 
